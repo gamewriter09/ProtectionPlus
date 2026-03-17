@@ -1,6 +1,0 @@
-name: ProtectionPlus
-version: 1.0
-main: com.akuma.protection.ProtectionPlus
-api-version: 1.21
-depend: [floodgate]
-description: Password protection for Java players on AkumaPlay.
